@@ -1,0 +1,22 @@
+div {
+    width: 450px;
+    padding: 25px;
+    border: 1px #000000 solid;
+    background-color: white;
+    margin: auto;
+}
+
+.button {
+    width: 150px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: cornsilk;
+}
+
+section{
+    text-align: right;
+}
+
+body{
+    background-color: slategrey;
+}
