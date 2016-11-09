@@ -1,8 +1,8 @@
 div {
     width: 450px;
     padding: 25px;
-    border: 1px #000000 solid;
-    background-color: white;
+    border: 10px #BAA898 dotted;
+    background-color: #598392;
     margin: auto;
 }
 
@@ -10,7 +10,7 @@ div {
     width: 150px;
     height: 50px;
     border-radius: 50%;
-    background-color: cornsilk;
+    background-color: #C0BCB5;
 }
 
 section{
@@ -18,5 +18,5 @@ section{
 }
 
 body{
-    background-color: slategrey;
+    background-color: #C0BCB5;
 }
